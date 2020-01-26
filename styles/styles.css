@@ -1,0 +1,14 @@
+.grid-row-div {
+    display: flex;
+    flex-grow: 1;
+    height: 35px;
+}
+
+.grid-column-div {
+    display: flex;
+    flex-grow: 1;
+}
+
+.hovering {
+    border: 1px solid red;
+}
